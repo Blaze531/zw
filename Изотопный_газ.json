@@ -1,0 +1,10 @@
+{
+"name": "Изотопный газ",
+"description": "Изотопы таких газов, как Гелий широко используются в термических оружиях по типу ReHeat ",
+"temperature": 0,
+"flammability": 0,
+"heatcapacity": 0,
+"explosiveness": 0.5,
+"viscosity": 0,
+"color": "8cadff"
+}

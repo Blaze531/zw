@@ -1,0 +1,35 @@
+{
+    "type": "wraith",
+    "name": "VoidX",
+    "description" : "Единственный корабль Войдов. " 
+    "health": 3100
+    "mass": 100.0,
+    "speed": 1,
+    "maxVelocity": 1.0,
+    "drag": 0.01,
+    "shootCone": 40.0,
+    "flying": true,
+    "engineOffset": 1,
+    "engineSize": 1,
+    "weapon": {
+        "length": 3.0,
+        "reload": 10,
+        "width": 10.0,
+        "shots": 1,
+        "inaccuracy": 3.0,
+        "alternate": true,
+        "ejectEffect": "shellEjectSmall",
+        "shootSound": "shoot",
+        		"bullet": {
+			"speed": 7,
+			"damage": 450
+			"bulletWidth": 10,
+			"bulletHeight": 15,
+			"frontColor": "#9254ff"
+			"backColor": "#9254ff" ,
+			"shootEffect": "shootBig"
+			"bullet": "meltdownLaser",
+			"despawnEffect": "none" 
+		} 
+    }
+}
