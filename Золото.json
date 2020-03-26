@@ -1,0 +1,12 @@
+{
+"type": "material",
+"name": "Золото",
+"description": "Драгоценный металл. На планетах его почти нет, но в астеройдах его достаточно много. В основном используется для украшений и некоторых электронных микросхем. ",
+"color": "#fffc00",
+"radioactivity": 0,
+"explosiveness": 0,
+"flammability": 0,
+"hardness": "4",
+"cost": 1.75,
+"alwaysUnlocked": false
+}
